@@ -1,5 +1,5 @@
 # Robotics & Artificial Intelligence Workshop
-<img width="1080" height="393" alt="image" src="/madinityRHD.png" />
+<img width="1080" height="393" alt="image" src="/madinityRHD.jpeg" />
 
 This repository documents my participation and practical project developed during the **Basics of Robotics and Artificial Intelligence** workshop (**أساسيات الروبوتات والذكاء الاصطناعي**).
 
